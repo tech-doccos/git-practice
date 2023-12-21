@@ -1,5 +1,0 @@
-`git init` - create a repo from folder
-`git add nameOfFile` - prepare file for commit
-`git commit -m 'commitName'` - to perform a commit
-`git log` - see branch history
-`git commit -am 'commitName' - add all changes in the existing files
