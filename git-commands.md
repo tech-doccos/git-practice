@@ -1,6 +1,6 @@
 # Commands and Explanations
 
-<img src=" ../git-practice\git-img.png" style="width:100px; ">
+<img src="https://github.com/tech-doccos/git-practice/blob/master/git-img.png" style="width:100px; ">
 
 ## Start
 
