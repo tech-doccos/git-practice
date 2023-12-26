@@ -59,3 +59,5 @@ the existing files
 * `git reset` - cancell the change
 
 * `git clean` - clean the terminal
+
+* `git log` - show the commit history for the currently active branch
