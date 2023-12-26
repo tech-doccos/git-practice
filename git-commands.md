@@ -1,5 +1,6 @@
 # Commands and Explanations
 
+-> More details can be found <a href="https://www.atlassian.com/git/glossary#commands">**here**</a>.
 
 <img src="https://github.com/tech-doccos/git-practice/blob/master/images/git-logo.png" style="width:100px; ">
 
